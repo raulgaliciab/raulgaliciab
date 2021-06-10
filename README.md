@@ -1,4 +1,4 @@
-### Hi, I'm Raúl 🙌
+### Hi, I'm Raúl
 
 Front-end Developer with experience working with ReactJS, HTML, CSS and JavaScript. | Almost 3 years of experience at Business Development & Digital Marketing | Volunteer at AIESEC in México 💙 | Global citizen with solution oriented mindset 🌎
 
