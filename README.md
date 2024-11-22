@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here I document all my personal projects.
 * 📊 Successfully built a Mortgage Calculator with Vanilla JS and ES Modules.
 
 ## 📍 Find Me Online
-* 🌐 Stay updated with my journey and events I attend on LinkedIn.
+* 🌐 Stay updated with my journey and events I attend on [LinkedIn](https://www.linkedin.com/in/raulgaliciaabud/).
 * 📫 Let’s connect! Reach out at raul.galiciab@gmail.com.
 
 ## 🌟 Fun Fact
