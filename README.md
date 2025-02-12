@@ -9,6 +9,7 @@ Welcome to my GitHub profile! Here I document all my personal projects.
 
 ## 🌱 Recent Projects
 * ⚛️ Developing dynamic and reusable components with React.js.
+* ⏳ Built an Age Calculator using TypeScript.
 * 📊 Successfully built a Mortgage Calculator with Vanilla JS and ES Modules.
 
 ## 📍 Find Me Online
