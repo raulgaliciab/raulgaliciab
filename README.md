@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here I document all my personal projects.
 
 ## 🚀 About Me
-* 💻 Passionate Frontend Developer with a focus on creating engaging user experiences.
+* 💻 Passionate Fullstack Developer with a focus on creating engaging user experiences.
 * 📚 Lifelong learner: I enhance my skills through books, courses, and hands-on projects.
 * 👨🏻‍💻 Currently working with JavaScript, TypeScript and React.js.
 * ⌨️ Learning C# and .NET
